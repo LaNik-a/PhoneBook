@@ -1,0 +1,4 @@
+{"name":"Aleksandr","surname":"Pushkin","patronymic":"Sergeevich","address":"testAddress","email":"testEmail","id":1,"birthdate":979160400000,"numbers":["89858432274","89858432274","89858432274"]}
+{"name":"aleksandr","surname":"Pushkin","patronymic":"Sergeevich","address":"testAddress","email":"testEmail","id":2,"birthdate":979160400000,"numbers":["84322744444","99999999999"]}
+{"name":"ALEKSAndR","surname":"Pushkin","patronymic":"Sergeevich","address":"testAddress","email":"testEmail","id":3,"birthdate":979160400000,"numbers":["32279843227"]}
+{"name":"Kirill","surname":"Pushkin","patronymic":"Sergeevich","address":"testAddress","email":"testEmail","id":4,"birthdate":979160400000,"numbers":["89859432277"]}
